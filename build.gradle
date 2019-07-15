@@ -12,7 +12,7 @@ repositories {
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
     implementation "org.apache.commons:commons-lang3:3.9"
-
+    implementation "commons-codec:commons-codec:1.11"
 
     testImplementation "org.junit.jupiter:junit-jupiter:5.5.0"
 }
